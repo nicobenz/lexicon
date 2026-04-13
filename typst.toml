@@ -1,0 +1,7 @@
+[package]
+name = "lexicon"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["OpenAI"]
+license = "MIT"
+description = "A Typst package for classical single-column dictionary entries."
